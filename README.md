@@ -1,6 +1,6 @@
 # Tanglesite2020 Coverpage
 
-![Image of Yaktocat](./githubCover.png)
+![Image of Yaktocat](https://github.com/Tanglesite2020/Tanglesite2020/blob/master/rect833.png)
 
 ## Oh Hello There! Come on In... SNOOP AROUND
 
