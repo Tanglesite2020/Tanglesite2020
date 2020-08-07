@@ -7,8 +7,8 @@ Hero(https://github.com/Tanglesite2020/Tanglesite2020/blob/master/rect833.png)
 
 ## Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="50px" style="padding:1rem" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
-<img align="left" alt="codeSTACKr | Twitter" width="50px" style="padding:1rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
+[<img align="left" alt="codeSTACKr.com" width="50px" style="padding:1rem" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="50px" style="padding:1rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <img align="left" alt="codeSTACKr | LinkedIn" width="50px" style="padding:1rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
