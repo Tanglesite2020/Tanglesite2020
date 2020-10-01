@@ -12,7 +12,7 @@
 <br />
 <br />
 
-### Languages
+### Languages, Libraries and Frameworks
 
 
 <img align="left" alt="HTML5" width="50px" style="padding:1rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,7 +36,6 @@
 
 <img align="left" alt="Visual Studio Code" width="50px" style="padding:1rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Webpack" width="80px" height="80px" style="padding:1rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
-<img align="left" alt="Webpack" width="80px" height="80px" style="padding:1rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>
 
 [website]: https://www.tanglesite.com
 [twitter]: https://twitter.com/tanglesite
