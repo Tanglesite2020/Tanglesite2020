@@ -1,6 +1,6 @@
 #### Tanglesite2020 Coverpage
 
-![Tanglesite2020 Hero](https://github.com/Tanglesite2020/Tanglesite2020/blob/master/rect833.png)
+![Tanglesite2020 Hero](https://github.com/Tanglesite2020/Tanglesite2020/blob/master/githubCover.png)
 
 ### Connect with me:
 
