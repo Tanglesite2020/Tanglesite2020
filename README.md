@@ -1,12 +1,12 @@
 #### Tanglesite2020 Coverpage
 
-![Tanglesite2020 Hero](https://github.com/Tanglesite2020/Tanglesite2020/blob/master/githubCover.png)
+![Tanglesite2020 Hero](https://github.com/Tanglesite2020/Tanglesite2020.git/g865.png)
 
 <br />
 <br />
 <br />
 
-### I Have Worked with: 
+### I Have Worked with:
 
 <img align="left" alt="Visual Studio Code" width="50px" style="padding:1rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="HTML5" width="50px" style="padding:1rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -22,10 +22,7 @@
 <img align="left" alt="C plus plus" width="50px" style="padding:1rem" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </a>
 
-
-
-
 [website]: https://www.tanglesite.com
 [twitter]: https://twitter.com/tanglesite
 [linkedin]: https://www.tanglesite.com/dev
-[Icon8]: https://icons8.com/icon/40669/c++
+[icon8]: https://icons8.com/icon/40669/c++
