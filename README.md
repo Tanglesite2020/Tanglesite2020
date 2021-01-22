@@ -1,6 +1,6 @@
 #### Tanglesite2020 Coverpage
 
-![Tanglesite2020 Hero](https://github.com/Tanglesite2020/Tanglesite2020.git/g865.png)
+![Tanglesite2020 Hero](./g865.png)
 
 <br />
 <br />
